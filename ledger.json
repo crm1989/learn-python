@@ -1,0 +1,16 @@
+[
+  {
+    "time": "2026-10-04 14:24",
+    "bill_type": "支出",
+    "category": "餐饮",
+    "amount": 25,
+    "note": "午饭"
+  },
+  {
+    "time": "2026-10-04 14:24",
+    "bill_type": "支出",
+    "category": "交通",
+    "amount": 4,
+    "note": "地铁"
+  }
+]
