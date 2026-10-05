@@ -1,0 +1,11 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 测试产生的临时文件
+test_*.txt
+demo_file.txt
+demo_contacts.txt
+
+# 虚拟环境
+.venv/
